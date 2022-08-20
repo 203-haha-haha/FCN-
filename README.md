@@ -1,3 +1,3 @@
 # FCN-
 语义分割视觉作业
-在文件夹目录下创建bag_data和bag_data_mask文件夹分别用来存数据和标签，在创建checkpoints文件夹用来存放保存好的模型，接着这接运行FCN.py即可
+在文件夹目录下创建bag_data和bag_data_mask文件夹分别用来存数据和标签，在创建checkpoints文件夹用来存放保存好的模型，接着直接运行FCN.py即可
